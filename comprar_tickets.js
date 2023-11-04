@@ -1,3 +1,4 @@
+
 function precioTicket() {
     console.log("Ingrese a calcular precio");
 
@@ -16,6 +17,7 @@ function precioTicket() {
     document.getElementById("totalapagar").value="Total a pagar: $"+precio;
    
 }
+
 
 const botonBorrar = document.getElementById('borrar');
 
